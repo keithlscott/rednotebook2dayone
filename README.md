@@ -6,5 +6,5 @@ I converted from rednotebook to DayOne classic, then imported the DayOne classic
 
 # Caveats
 * Probably doesn't handle all possible special characters (like '&', '<', and '>', which it does handle)
-* Can be confused by instances of '}' in text
-* 
+* Can be confused by instances of '}' in entry text
+* Input and output directories are hard-coded
